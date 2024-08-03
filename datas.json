@@ -1,0 +1,88 @@
+[
+  {
+    "id": "a3165bf3-43f3-4dac-aa77-89881015900e",
+    "email": "test@example.us",
+    "phone": "6019521325",
+    "name": "Jon Stewart Doe",
+    "university": "Jon Stewart Doe",
+    "study": "Jon Stewart Doe",
+    "languages": "c",
+    "selectedOptions": [
+      "option2"
+    ]
+  },
+  {
+    "id": "73d4f4f7-94e9-43ac-bc32-65bb2ed4c0bb",
+    "email": "test@example.us",
+    "phone": "6019521325",
+    "name": "Jon Stewart Doe",
+    "university": "Jon Stewart Doe",
+    "study": "Jon Stewart Doe",
+    "languages": "c",
+    "selectedOptions": [
+      "option2"
+    ]
+  },
+  {
+    "id": "0c059ed9-e630-407f-bf18-211ccc472e7b",
+    "email": "test@example.us",
+    "phone": "6019521325",
+    "name": "Jon Stewart Doe",
+    "university": "Jon Stewart Doe",
+    "study": "Jon Stewart Doe",
+    "languages": "c",
+    "selectedOptions": [
+      "option2"
+    ]
+  },
+  {
+    "id": "24258426-9ae8-4bd4-bb07-29d2a28083af",
+    "email": "test@example.us",
+    "phone": "6019521325",
+    "name": "Jon Stewart Doe",
+    "university": "Jon Stewart Doe",
+    "study": "Jon Stewart Doe",
+    "languages": "c",
+    "selectedOptions": [
+      "option1",
+      "option2"
+    ]
+  },
+  {
+    "id": "dc465ec6-c006-419a-96dc-5f8cd6471a4c",
+    "email": "test@example.us",
+    "phone": "6019521325",
+    "name": "Jon Stewart Doe",
+    "university": "Jon Stewart Doe",
+    "study": "Jon Stewart Doe",
+    "languages": "c",
+    "selectedOptions": [
+      "option1",
+      "option2"
+    ]
+  },
+  {
+    "id": "df755056-195f-4557-8c73-47cb763d4f5a",
+    "email": "keerthanakrishnant@gmail.com",
+    "phone": "9496778445",
+    "name": "avinash",
+    "university": "vit",
+    "study": "btech",
+    "languages": "c",
+    "selectedOptions": [
+      "Beginner"
+    ]
+  },
+  {
+    "id": "a3f3a806-a1b3-45fd-af1c-8169fe52ee54",
+    "email": "keerthanakrishnant@gmail.com",
+    "phone": "9496778445",
+    "name": "avinash",
+    "university": "vit",
+    "study": "bsc",
+    "languages": "c",
+    "selectedOptions": [
+      "Intermediate"
+    ]
+  }
+]
